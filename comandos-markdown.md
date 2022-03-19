@@ -134,4 +134,4 @@ Ben Parker dijo:
 > "Cuando el grajo vuela bajo hace un frío del carajo."
 
 ### CRÉDITOS
-Contenido basado en un documento de [BattlerHaru](https://gist.github.com/BattlerHaru) 
+Contenido basado en un documento de [BattlerHaru](https://gist.github.com/BattlerHaru) - [comandos-markdown](https://gist.github.com/BattlerHaru/80c0bb5f873deae0589046d4d1b8f963)
