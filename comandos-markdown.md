@@ -132,3 +132,6 @@ Se utiliza el `>` seguido del texto, por ejemplo:
 
 Ben Parker dijo:
 > "Cuando el grajo vuela bajo hace un frío del carajo."
+
+### CRÉDITOS
+Contenido basado en un documento de [BattlerHaru](https://gist.github.com/BattlerHaru) 
