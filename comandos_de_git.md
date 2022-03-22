@@ -1,0 +1,1 @@
+git status: Muestra el estado de actualizaciones de archivos, commit, etc
